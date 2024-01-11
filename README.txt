@@ -1,1 +1,1 @@
-Click on this link to view my [portfolio](https://enthongy.github.io).
+Click on this [portfolio](https://enthongy.github.io) link to explore my projects.
